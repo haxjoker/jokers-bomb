@@ -12,11 +12,6 @@
 ## Available On
 - Termux
 - Kali Linux
-
-## Test On:
-- Termux
-- Mi Note 9 pro
-
 ## INSTALLATION [Termux] :
 
 * `apt update`
