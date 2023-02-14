@@ -1,11 +1,11 @@
-# Fl00d-Attacker
+# jokers bomb
 
 
 ## Features:
 
 - Flood attack 
-- sms flooder
-- call flooder
+- sms bomber
+- call bomber
 - update script
 - remove script
 
