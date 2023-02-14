@@ -3,7 +3,7 @@
 
 ## Features:
 
-- Flood attack 
+- flood attack 
 - sms bomber
 - call bomber
 - update script
